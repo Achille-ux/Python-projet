@@ -1,5 +1,5 @@
 ##Projet en groupe
-#13/01/2023
+#
 #Chollet Héloïse Le Labourier Margot Vigeant Valentin
 
 ##Imports
